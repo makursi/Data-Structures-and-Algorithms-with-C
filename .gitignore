@@ -1,0 +1,24 @@
+# 编译生成的可执行文件
+*.exe
+
+# 构建输出目录
+build/
+bin/
+obj/
+
+# IDE相关文件
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# 临时文件
+*.tmp
+*.temp
+*~
+
+# 日志文件
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
